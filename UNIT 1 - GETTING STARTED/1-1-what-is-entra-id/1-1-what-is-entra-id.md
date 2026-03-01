@@ -209,4 +209,4 @@ Module 1.2 covers tenants — what they are, what they contain, and why decision
 
 > 📚 **Entra ID — Zero to Admin** · Unit 1: Getting Started
 >
-> ← *Start of series* | [🏠 Series Home](../TABLE-OF-CONTENTS.md) | [Module 1.2 — Understanding Your Tenant →](./1-2-understanding-your-tenant.md)
+> ← *Start of series* | [🏠 Series Home](../../TABLE-OF-CONTENTS.md) | [Module 1.2 — Understanding Your Tenant →](../1-2-understanding-your-tenant/1-2-understanding-your-tenant.md)
