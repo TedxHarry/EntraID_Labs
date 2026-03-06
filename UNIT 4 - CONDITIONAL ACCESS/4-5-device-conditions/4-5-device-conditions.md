@@ -1,7 +1,7 @@
 # Device Conditions — Managed vs Unmanaged
 *MFA stops phishing. Device compliance stops token theft. Together, they stop almost everything.*
 
-> 🟢 **Beginner** · Unit 4, Module 4.5 · ⏱️ 50 minutes
+> 🟢 **Beginner** · Unit 4, Module 4.5
 
 ---
 
@@ -83,7 +83,6 @@ A CA policy with **Device state → Include: All devices → Grant: Require MFA*
 
 ## Lab 4.5.1 — Enroll a Test Device in Intune (Simulate Compliance)
 
-**Time:** 20 minutes
 **Tools:** Entra admin center, Intune admin center, a Windows PC or Mac (can be the same PC you are using as admin)
 **Prerequisite:** Lab 4.1 complete (Security Defaults disabled)
 
@@ -123,7 +122,6 @@ The compliance policy is now defined. Devices enrolled in Intune and meeting the
 
 ## Lab 4.5.2 — Build a Device Compliance CA Policy (Report-Only)
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 4.5.1 complete, Lab 4.4 complete (Named Locations)
 
@@ -167,7 +165,6 @@ You will create a policy that requires a compliant device for SharePoint access.
 
 ## Lab 4.5.3 — Test the Policy and Read Device Compliance in Sign-In Logs
 
-**Time:** 10 minutes
 **Tools:** Entra admin center, Microsoft 365 admin center
 **Prerequisite:** Lab 4.5.2 complete
 
@@ -204,7 +201,6 @@ If the device compliance status is "Compliant," this means:
 
 ## Lab 4.5.4 — Simulate an Unmanaged Device Sign-In
 
-**Time:** 5 minutes
 **Tools:** Browser (incognito mode or separate browser profile)
 **Prerequisite:** Lab 4.5.3 complete
 

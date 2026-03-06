@@ -1,7 +1,7 @@
 # Security Defaults — Understanding What You're Replacing
 *Before you build Conditional Access policies, you must disable the baseline Microsoft manages. Here is exactly what you are removing — and what you must rebuild.*
 
-> 🟢 **Beginner** · Unit 4, Module 4.1 · ⏱️ 45 minutes
+> 🟢 **Beginner** · Unit 4, Module 4.1
 
 ---
 
@@ -65,7 +65,6 @@ Requirements for an emergency access account:
 
 ## Lab 4.1.1 — Check Whether Security Defaults Are Currently Enabled
 
-**Time:** 5 minutes
 **Tools:** Entra admin center
 
 1. Open the Entra admin center at `entra.microsoft.com`. Sign in as your Global Administrator.
@@ -84,7 +83,6 @@ Requirements for an emergency access account:
 
 ## Lab 4.1.2 — Create an Emergency Access Account
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 4.1.1 complete
 
@@ -122,7 +120,6 @@ Requirements for an emergency access account:
 
 ## Lab 4.1.3 — Disable Security Defaults
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 4.1.2 complete — emergency access account and exclusion group exist
 
@@ -147,7 +144,6 @@ Requirements for an emergency access account:
 
 ## Lab 4.1.4 — Verify Security Defaults Are Off and Review the Gap
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 
 1. Navigate to **Protection** → **Conditional Access** → **Policies**.

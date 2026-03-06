@@ -1,7 +1,7 @@
 # Creating and Managing Users
 *You can create users in the portal and via PowerShell, set every property correctly, and explain why the Object ID matters more than the display name.*
 
-> 🟢 **Beginner** · Unit 2, Module 2.1 · ⏱️ 60 minutes
+> 🟢 **Beginner** · Unit 2, Module 2.1
 
 ---
 
@@ -83,7 +83,6 @@ You will work with synced users in Unit 10. For the entire series up to Unit 10,
 
 ## Lab 2.1.1 — Create Alex Lee, Morgan Chen, and Jordan Kim in the Portal
 
-**Time:** 20 minutes
 **Tools:** Entra admin center (`entra.microsoft.com`)
 **Prerequisite:** Module 1.1 completed. Signed in as your sandbox admin account.
 
@@ -186,7 +185,6 @@ Create these three users exactly as specified. The properties set here are used 
 
 ## Lab 2.1.2 — Create Sam Taylor and River Patel Using PowerShell
 
-**Time:** 25 minutes
 **Tools:** PowerShell (version 5.1 or 7.x), Microsoft Graph PowerShell SDK
 **Prerequisite:** Lab 2.1.1 completed.
 
@@ -319,7 +317,6 @@ River Patel  river.patel@yourdomain.onmicrosoft.com    HR           HR Manager  
 
 ## Lab 2.1.3 — Verify All Five Users and Record Their Object IDs
 
-**Time:** 10 minutes
 **Tools:** Entra admin center and PowerShell
 **Prerequisite:** Labs 2.1.1 and 2.1.2 completed.
 

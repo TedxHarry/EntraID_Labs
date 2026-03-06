@@ -1,7 +1,7 @@
 # Licenses — Assigning the Right Features
 *Group-based licensing means a new hire gets access the moment their attribute is set — not the moment an admin remembers*
 
-> 🟢 **Beginner** · Unit 2, Module 2.5 · ⏱️ 45 minutes
+> 🟢 **Beginner** · Unit 2, Module 2.5
 
 ---
 
@@ -84,7 +84,6 @@ Your developer tenant includes Entra ID P2 (bundled in E5), so all features are 
 
 ## Lab 2.5.1 — Assign Licenses via Group
 
-**Time:** 20 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Finance-Dynamic group exists with Alex Lee as a member. All five Contoso users have Usage location set to United States.
 
@@ -142,7 +141,6 @@ You will assign the Microsoft 365 E5 license to a group that covers all Contoso 
 
 ## Lab 2.5.2 — Remove a User from the License Group and Observe
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 2.5.1 complete. All five users have active licenses.
 

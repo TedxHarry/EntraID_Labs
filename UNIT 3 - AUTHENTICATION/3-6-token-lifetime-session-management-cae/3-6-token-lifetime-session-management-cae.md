@@ -1,7 +1,7 @@
 # Token Lifetime, Session Management, and Continuous Access Evaluation
 *Revoking a user's session does not immediately end their access. Here is why — and how to close that gap.*
 
-> 🟡 **Intermediate** · Unit 3, Module 3.6 · ⏱️ 55 minutes
+> 🟡 **Intermediate** · Unit 3, Module 3.6
 
 ---
 
@@ -82,7 +82,6 @@ Sign-In Frequency is not a replacement for CAE — it is a scheduled control. CA
 
 ## Lab 3.6.1 — Revoke Alex Lee's Sessions and Observe Re-Authentication
 
-**Time:** 15 minutes
 **Tools:** Entra admin center, InPrivate browser
 **Prerequisite:** Alex Lee is signed in to a resource (from Module 3.5 lab or a fresh sign-in)
 
@@ -122,7 +121,6 @@ Sign-In Frequency is not a replacement for CAE — it is a scheduled control. CA
 
 ## Lab 3.6.2 — Configure Sign-In Frequency for SharePoint
 
-**Time:** 20 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Module 4 has not been started — this is an early CA preview
 
@@ -160,7 +158,6 @@ This is a preview of Conditional Access policy structure. Unit 4 covers CA polic
 
 ## Lab 3.6.3 — Find the CAE Indicator in a Sign-In Log
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Alex Lee has signed in to SharePoint or Exchange (from previous labs)
 

@@ -1,7 +1,7 @@
 # External Collaboration Settings and Cross-Tenant Access
 *The defaults let anyone in your organization invite anyone from outside. That is not always what you want.*
 
-> 🟢 **Beginner** · Unit 2, Module 2.8 · ⏱️ 50 minutes
+> 🟢 **Beginner** · Unit 2, Module 2.8
 
 ---
 
@@ -95,7 +95,6 @@ And within each direction, two things can be configured:
 
 ## Lab 2.8.1 — Review and Tighten External Collaboration Settings
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** None
 
@@ -135,7 +134,6 @@ And within each direction, two things can be configured:
 
 ## Lab 2.8.2 — Test the Domain Restriction and Revert
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 2.8.1 complete — domain allowlist set to `microsoft.com`
 
@@ -163,7 +161,6 @@ And within each direction, two things can be configured:
 
 ## Lab 2.8.3 — Explore Cross-Tenant Access Settings
 
-**Time:** 20 minutes
 **Tools:** Entra admin center
 **Prerequisite:** None
 

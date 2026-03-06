@@ -1,7 +1,7 @@
 # Production CA Policy Stack — Putting It All Together
 *This is not a feature. This is your defense system. Build it properly.*
 
-> 🟡 **Intermediate** · Unit 4, Module 4.8 · ⏱️ 90 minutes
+> 🟡 **Intermediate** · Unit 4, Module 4.8
 
 ---
 
@@ -137,7 +137,6 @@ Here is what Contoso will implement and enforce:
 
 ## Lab 4.8.1 — Design Your Exclusion Groups (Strategic Planning)
 
-**Time:** 15 minutes
 **Tools:** Entra admin center, spreadsheet or text editor
 **Prerequisite:** All Module 4 labs complete
 
@@ -206,7 +205,6 @@ Before enforcing policies, you must identify who needs exclusions. Create exclus
 
 ## Lab 4.8.2 — Update Existing Policies with Exclusions
 
-**Time:** 20 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 4.8.1 complete
 
@@ -262,7 +260,6 @@ Now you will update the CA policies to exclude the appropriate groups.
 
 ## Lab 4.8.3 — Enforce the Geo-Block Policy (Lowest Risk, High Value)
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 4.8.2 complete
 
@@ -290,7 +287,6 @@ The geo-block policy from Module 4.4 is Report-Only with minimal impact (blockin
 
 ## Lab 4.8.4 — Plan Device Compliance Rollout (Metrics & Timeline)
 
-**Time:** 15 minutes
 **Tools:** Entra admin center, sign-in logs analysis
 **Prerequisite:** Lab 4.8.3 complete
 
@@ -332,7 +328,6 @@ The device compliance policy for SharePoint is Report-Only. Enforcing it require
 
 ## Lab 4.8.5 — Audit Your CA Policies (Comprehensive Review)
 
-**Time:** 20 minutes
 **Tools:** Entra admin center
 **Prerequisite:** All previous labs complete
 
@@ -403,7 +398,6 @@ Before you consider your CA stack production-ready, perform a comprehensive audi
 
 ## Lab 4.8.6 — Monitor and Document (Ongoing)
 
-**Time:** 15 minutes
 **Tools:** Sign-in logs, spreadsheet
 **Prerequisite:** Lab 4.8.5 complete
 

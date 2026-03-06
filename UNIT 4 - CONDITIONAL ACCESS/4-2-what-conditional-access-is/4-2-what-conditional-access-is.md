@@ -1,7 +1,7 @@
 # What Conditional Access Is — The IF-THEN Engine
 *Every sign-in gets evaluated against every applicable policy. The result is the most restrictive outcome of all of them.*
 
-> 🟢 **Beginner** · Unit 4, Module 4.2 · ⏱️ 40 minutes
+> 🟢 **Beginner** · Unit 4, Module 4.2
 
 ---
 
@@ -91,7 +91,6 @@ Multiple grant controls can be combined with AND (require all) or OR (require an
 
 ## Lab 4.2.1 — Explore the Conditional Access Policy Blade
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Security Defaults disabled (Module 4.1)
 
@@ -109,7 +108,6 @@ Multiple grant controls can be combined with AND (require all) or OR (require an
 
 ## Lab 4.2.2 — Use the What-If Tool to Simulate Sign-In Scenarios
 
-**Time:** 20 minutes
 **Tools:** Entra admin center → Conditional Access → What If
 **Prerequisite:** Lab 4.2.1 complete
 

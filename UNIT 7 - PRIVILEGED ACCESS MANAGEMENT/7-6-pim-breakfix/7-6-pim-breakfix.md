@@ -1,7 +1,7 @@
 # Breakfix: PIM Governance Lab
 *Design and implement a complete PIM strategy for a 50-person company, then test it end-to-end.*
 
-> 🔴 **Advanced** · Unit 7, Module 7.6 · ⏱️ 120 minutes
+> 🔴 **Advanced** · Unit 7, Module 7.6
 
 ---
 

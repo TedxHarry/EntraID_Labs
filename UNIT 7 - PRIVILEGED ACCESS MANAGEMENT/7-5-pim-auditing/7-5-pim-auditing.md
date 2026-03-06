@@ -1,7 +1,7 @@
 # Auditing Privileged Actions
 *Log every admin action. Review logs to ensure admins are doing what they should, not what they shouldn't.*
 
-> 🟡 **Intermediate** · Unit 7, Module 7.5 · ⏱️ 50 minutes
+> 🟡 **Intermediate** · Unit 7, Module 7.5
 
 ---
 
@@ -122,7 +122,6 @@ PIM controls *when* admins can access roles and *for how long*. Auditing verifie
 
 ## Lab 7.5.1 — Access PIM Activity Logs
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Module 7.4 complete; you have some activation history
 
@@ -176,7 +175,6 @@ Goal: Find PIM activation logs.
 
 ## Lab 7.5.2 — Correlate PIM Logs with Azure AD Audit Logs
 
-**Time:** 20 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 7.5.1 complete; you have activation history
 
@@ -232,7 +230,6 @@ Goal: Connect PIM activation with actual admin actions.
 
 ## Lab 7.5.3 — Generate Compliance Report
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 7.5.2 complete
 
@@ -285,7 +282,6 @@ Goal: Create a report showing PIM compliance for auditors.
 
 ## Lab 7.5.4 — Detect Suspicious Admin Patterns
 
-**Time:** 15 minutes
 **Tools:** Entra admin center, analysis
 **Prerequisite:** Lab 7.5.3 complete
 
@@ -339,7 +335,6 @@ Goal: Identify admin activity that doesn't look right.
 
 ### Lab 7.5.5 — Audit Admin Use of Sensitive Operations
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 7.5.4 complete
 

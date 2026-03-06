@@ -1,7 +1,7 @@
 # Enterprise Applications vs App Registrations
 *The same app exists in two places in your tenant. Understanding where each one is and what each one controls is the difference between confused and confident.*
 
-> 🟡 **Intermediate** · Unit 5, Module 5.2 · ⏱️ 55 minutes
+> 🟡 **Intermediate** · Unit 5, Module 5.2
 
 ---
 
@@ -74,7 +74,6 @@ Here's where confusion happens:
 
 ## Lab 5.2.1 — Register a New App and Observe Both Sides
 
-**Time:** 20 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Module 5.1 complete
 
@@ -104,7 +103,6 @@ You'll register a new application (putting yourself in a developer role), then f
 
 ## Lab 5.2.2 — Find the Enterprise Application and Compare
 
-**Time:** 20 minutes
 **Tools:** Entra admin center, Application ID from Lab 5.2.1
 **Prerequisite:** Lab 5.2.1 complete
 
@@ -131,7 +129,6 @@ You'll register a new application (putting yourself in a developer role), then f
 
 ## Lab 5.2.3 — Request and Grant API Permissions
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 5.2.2 complete
 
@@ -187,7 +184,6 @@ You'll request a permission on the App Registration side, then grant it on the E
 
 ## Lab 5.2.4 — Understand the Redirect URI and Authentication Flow
 
-**Time:** 10 minutes
 **Tools:** Entra admin center, text editor
 **Prerequisite:** Lab 5.2.3 complete
 

@@ -1,7 +1,7 @@
 # App Conditions — Not All Apps Are Equal
 *The Azure portal is more dangerous than Teams. Conditional Access should reflect that.*
 
-> 🟢 **Beginner** · Unit 4, Module 4.6 · ⏱️ 55 minutes
+> 🟢 **Beginner** · Unit 4, Module 4.6
 
 ---
 
@@ -124,7 +124,6 @@ A policy with **Cloud apps → Include: All cloud apps** applies to every servic
 
 ## Lab 4.6.1 — Understand App Selection in CA Policy
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 4.1 complete (Security Defaults disabled)
 
@@ -159,7 +158,6 @@ This lab is exploratory — no policy is created yet. You will navigate the CA i
 
 ## Lab 4.6.2 — Create a Tier 3 Policy: Azure Portal Requires Phishing-Resistant MFA
 
-**Time:** 20 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 4.6.1 complete
 
@@ -236,7 +234,6 @@ You now have an **Authentication Strength** policy named "Phishing-resistant MFA
 
 ## Lab 4.6.3 — Create a Tier 1 Policy: Other Apps Require Standard MFA
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 4.6.2 complete
 
@@ -288,7 +285,6 @@ You now have two CA policies:
 
 ## Lab 4.6.4 — Test Different Apps and Observe User Experience
 
-**Time:** 15 minutes
 **Tools:** Entra admin center, browser
 **Prerequisite:** Lab 4.6.3 complete
 
@@ -337,7 +333,6 @@ Now you will test the different policies by signing in to different apps and obs
 
 ## Lab 4.6.5 — Use What-If Tool to Simulate Different Scenarios
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 4.6.4 complete
 

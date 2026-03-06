@@ -1,7 +1,7 @@
 # PIM Overview — Control Who Becomes Admin and When
 *Not everyone should be admin all the time. Privileged Identity Management (PIM) is the guard that controls access to dangerous permissions.*
 
-> 🟡 **Intermediate** · Unit 7, Module 7.1 · ⏱️ 50 minutes
+> 🟡 **Intermediate** · Unit 7, Module 7.1
 
 ---
 
@@ -233,7 +233,6 @@ Role deactivated, audit logged
 
 ## Lab 7.1.1 — Understand PIM Licensing
 
-**Time:** 5 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Module 1.1 complete
 
@@ -249,7 +248,6 @@ Role deactivated, audit logged
 
 ## Lab 7.1.2 — Explore PIM Dashboard
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 7.1.1 complete
 
@@ -274,7 +272,6 @@ Role deactivated, audit logged
 
 ## Lab 7.1.3 — Review Current Admin Roles
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 7.1.2 complete
 
@@ -310,7 +307,6 @@ Understand what admin roles currently exist in your tenant and who has them.
 
 ## Lab 7.1.4 — Understand Just-in-Time (JIT) Access
 
-**Time:** 10 minutes
 **Tools:** Conceptual
 **Prerequisite:** Lab 7.1.3 complete
 

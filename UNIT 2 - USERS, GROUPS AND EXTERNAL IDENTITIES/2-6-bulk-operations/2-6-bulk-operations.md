@@ -1,7 +1,7 @@
 # Bulk Operations — Managing Users at Scale
 *One portal action per user works for five users. It doesn't work for fifty.*
 
-> 🟢 **Beginner** · Unit 2, Module 2.6 · ⏱️ 55 minutes
+> 🟢 **Beginner** · Unit 2, Module 2.6
 
 ---
 
@@ -76,7 +76,6 @@ The **Deleted users** bin is at `Identity → Users → Deleted users`. Restore 
 
 ## Lab 2.6.1 — Bulk Create Users via CSV Upload
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** You know your tenant's `.onmicrosoft.com` domain name (from Module 1.2)
 
@@ -126,7 +125,6 @@ Test User 10,testuser10@yourdomain.onmicrosoft.com,Contoso@1234!,No,Test,User10,
 
 ## Lab 2.6.2 — Bulk Update Users via PowerShell
 
-**Time:** 20 minutes
 **Tools:** PowerShell (Microsoft Graph PowerShell SDK)
 **Prerequisite:** Lab 2.6.1 complete. The 10 test users exist in the tenant.
 
@@ -222,7 +220,6 @@ Jordan Kim
 
 ## Lab 2.6.3 — Disable, Delete, and Restore Users
 
-**Time:** 15 minutes
 **Tools:** PowerShell, Entra admin center
 **Prerequisite:** Lab 2.6.2 complete. All 10 test users exist.
 

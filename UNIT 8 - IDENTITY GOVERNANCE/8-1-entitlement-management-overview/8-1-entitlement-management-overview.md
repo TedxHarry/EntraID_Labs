@@ -1,7 +1,7 @@
 # Entitlement Management — Govern Who Gets Access and How
 *Let users request the access they need. Let approvers control it. Automate the rest.*
 
-> 🟡 **Intermediate** · Unit 8, Module 8.1 · ⏱️ 50 minutes
+> 🟡 **Intermediate** · Unit 8, Module 8.1
 
 ---
 
@@ -151,7 +151,6 @@ Alex can request again if needed
 
 ## Lab 8.1.1 — Understand Entitlement Management in Your Tenant
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Module 1.1 complete
 
@@ -172,7 +171,6 @@ Alex can request again if needed
 
 ## Lab 8.1.2 — Understand Access Lifecycle
 
-**Time:** 15 minutes
 **Tools:** Conceptual
 **Prerequisite:** Lab 8.1.1 complete
 
@@ -220,7 +218,6 @@ Draw or describe the **access lifecycle** for an employee:
 
 ## Lab 8.1.3 — Compare Manual vs. Entitlement-Managed Access
 
-**Time:** 15 minutes
 **Tools:** Comparison table
 **Prerequisite:** Lab 8.1.2 complete
 
@@ -259,7 +256,6 @@ Create a comparison table for two scenarios:
 
 ## Lab 8.1.4 — Design Entitlement Strategy for Contoso
 
-**Time:** 10 minutes
 **Tools:** Design document
 **Prerequisite:** Lab 8.1.3 complete
 

@@ -1,7 +1,7 @@
 # Your First CA Policy — Require MFA for Administrators
 *Admin accounts are the highest-value target. Protect them first.*
 
-> 🟢 **Beginner** · Unit 4, Module 4.3 · ⏱️ 45 minutes
+> 🟢 **Beginner** · Unit 4, Module 4.3
 
 ---
 
@@ -51,7 +51,6 @@ Global Administrator is the most powerful role in your tenant. An attacker who c
 
 ## Lab 4.3.1 — Build the Policy in Report-Only Mode
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Security Defaults disabled (Module 4.1). CA-Exclusion-BreakGlass group exists.
 
@@ -115,7 +114,6 @@ The policy is saved. You should see it in the policy list with a status of **Rep
 
 ## Lab 4.3.2 — Test in Report-Only and Read the Sign-In Log
 
-**Time:** 15 minutes
 **Tools:** Entra admin center, InPrivate browser
 **Prerequisite:** Lab 4.3.1 complete
 
@@ -143,7 +141,6 @@ This confirms the policy is evaluating correctly and would have required MFA if 
 
 ## Lab 4.3.3 — Switch to Enforce and Experience MFA
 
-**Time:** 10 minutes
 **Tools:** Entra admin center, InPrivate browser, phone with Authenticator
 **Prerequisite:** Lab 4.3.2 complete. Microsoft Authenticator is registered for your admin account.
 

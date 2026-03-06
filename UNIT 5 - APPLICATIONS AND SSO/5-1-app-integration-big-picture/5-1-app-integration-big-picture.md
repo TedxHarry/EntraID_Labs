@@ -1,7 +1,7 @@
 # The App Integration Big Picture
 *Before you configure a single app, understand what two objects you're creating and why you need both.*
 
-> 🟢 **Beginner** · Unit 5, Module 5.1 · ⏱️ 45 minutes
+> 🟢 **Beginner** · Unit 5, Module 5.1
 
 ---
 
@@ -90,7 +90,6 @@ For custom apps, your developer creates the App Registration first (with redirec
 
 ## Lab 5.1.1 — Browse the Microsoft Entra Application Gallery
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Module 1.1 (developer tenant set up)
 
@@ -122,7 +121,6 @@ For custom apps, your developer creates the App Registration first (with redirec
 
 ## Lab 5.1.2 — Find an Enterprise Application and Explore Its Properties
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 5.1.1 complete
 
@@ -169,7 +167,6 @@ Every Microsoft 365 service (Teams, SharePoint, Exchange) is already integrated 
 
 ## Lab 5.1.3 — Compare Two Apps: a Gallery App vs a Microsoft Service
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 5.1.2 complete
 

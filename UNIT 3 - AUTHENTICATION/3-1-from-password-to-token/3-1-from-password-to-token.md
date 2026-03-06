@@ -1,7 +1,7 @@
 # From Password to Token: What Authentication Actually Produces
 *Your password gets you in. A token is what you carry once you're in — and it's not a secret.*
 
-> 🟢 **Beginner** · Unit 3, Module 3.1 · ⏱️ 50 minutes
+> 🟢 **Beginner** · Unit 3, Module 3.1
 
 ---
 
@@ -86,7 +86,6 @@ This behavior is intentional. It reduces the number of calls to Entra ID by allo
 
 ## Lab 3.1.1 — Decode an Access Token at jwt.ms
 
-**Time:** 20 minutes
 **Tools:** Graph Explorer (`aka.ms/ge`), jwt.ms
 **Prerequisite:** Alex Lee exists from Module 2.1. You are signed in as your Global Administrator.
 
@@ -129,7 +128,6 @@ This behavior is intentional. It reduces the number of calls to Entra ID by allo
 
 ## Lab 3.1.2 — Change a Profile Attribute and Watch the Token Refresh
 
-**Time:** 15 minutes
 **Tools:** Entra admin center, Graph Explorer, jwt.ms
 **Prerequisite:** Lab 3.1.1 complete. Alex's InPrivate Graph Explorer session is still open.
 
@@ -155,7 +153,6 @@ This behavior is intentional. It reduces the number of calls to Entra ID by allo
 
 ## Lab 3.1.3 — Read What the Token Authorizes via the /me Endpoint
 
-**Time:** 10 minutes
 **Tools:** Graph Explorer
 **Prerequisite:** Alex Lee signed in to Graph Explorer
 

@@ -1,7 +1,7 @@
 # OIDC/OAuth SSO — The Modern Approach
 *SAML is XML and enterprise. OIDC is JSON and modern. Both get the user signed in, but OIDC is simpler.*
 
-> 🟡 **Intermediate** · Unit 5, Module 5.5 · ⏱️ 55 minutes
+> 🟡 **Intermediate** · Unit 5, Module 5.5
 
 ---
 
@@ -108,7 +108,6 @@ That's it. No certificates, no XML, no attribute mapping. The tokens (ID token, 
 
 ## Lab 5.5.1 — Register an App for OIDC SSO
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Module 5.2 complete (you understand App Registrations)
 
@@ -146,7 +145,6 @@ You'll register a new app configured for OIDC.
 
 ## Lab 5.5.2 — Configure Scopes and Permissions
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 5.5.1 complete
 
@@ -173,7 +171,6 @@ You'll register a new app configured for OIDC.
 
 ## Lab 5.5.3 — Use Graph Explorer to Get an ID Token and Decode It
 
-**Time:** 20 minutes
 **Tools:** Graph Explorer (`aka.ms/ge`), jwt.ms
 **Prerequisite:** Lab 5.5.2 complete
 
@@ -207,7 +204,6 @@ You'll register a new app configured for OIDC.
 
 ## Lab 5.5.4 — Compare OIDC (Simple) vs SAML (Complex)
 
-**Time:** 10 minutes
 **Tools:** Text editor
 **Prerequisite:** Lab 5.5.3 complete
 

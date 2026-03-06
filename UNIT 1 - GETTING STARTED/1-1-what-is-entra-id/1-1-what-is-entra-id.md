@@ -1,7 +1,7 @@
 # What Is Microsoft Entra ID?
 *You now know what Entra ID does, why it exists, and how to navigate the admin center.*
 
-> 🟢 **Beginner** · Unit 1, Module 1.1 · ⏱️ 60 minutes
+> 🟢 **Beginner** · Unit 1, Module 1.1
 
 ---
 
@@ -65,7 +65,6 @@ Keep this model in mind. When a new concept appears later in the series, ask: is
 
 ## Lab 1.1.1 — Set Up Your Developer Tenant
 
-**Time:** 20–30 minutes (Microsoft provisioning takes 1–5 minutes)
 **Tools:** Web browser
 **Prerequisite:** A personal Microsoft account (Outlook.com or Hotmail.com). Create one free at `account.microsoft.com` if you do not have one.
 
@@ -95,7 +94,6 @@ Keep this model in mind. When a new concept appears later in the series, ask: is
 
 ## Lab 1.1.2 — Tour the Entra Admin Center
 
-**Time:** 10 minutes
 **Tools:** Entra admin center (`entra.microsoft.com`)
 **Prerequisite:** Lab 1.1.1 completed. Signed in as your sandbox admin account.
 
@@ -121,7 +119,6 @@ You will use five sections of the admin center constantly throughout this series
 
 ## Lab 1.1.3 — Create Your First User and Find Them in the Logs
 
-**Time:** 15 minutes
 **Tools:** Entra admin center (`entra.microsoft.com`)
 **Prerequisite:** Labs 1.1.1 and 1.1.2 completed.
 

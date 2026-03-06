@@ -1,7 +1,7 @@
 # Security Groups vs Microsoft 365 Groups
 *Choosing the wrong group type is the most common configuration mistake in Entra ID*
 
-> 🟢 **Beginner** · Unit 2, Module 2.3 · ⏱️ 45 minutes
+> 🟢 **Beginner** · Unit 2, Module 2.3
 
 ---
 
@@ -91,7 +91,6 @@ This is how enterprise-scale access control works. You build small, attribute-dr
 
 ## Lab 2.3.1 — Create a Security Group for Finance
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Alex Lee exists with Department = Finance (from Module 2.1)
 
@@ -122,7 +121,6 @@ You now have two Finance groups: Finance-Dynamic (dynamic, from Module 2.2) and 
 
 ## Lab 2.3.2 — Create a Microsoft 365 Group for Engineering
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Morgan Chen exists with Department = Engineering (from Module 2.1)
 
@@ -155,7 +153,6 @@ You now have two Finance groups: Finance-Dynamic (dynamic, from Module 2.2) and 
 
 ## Lab 2.3.3 — Assign SharePoint Access via Group
 
-**Time:** 10 minutes
 **Tools:** Entra admin center, SharePoint admin center
 **Prerequisite:** Finance-All Security Group exists with Alex Lee as a member
 

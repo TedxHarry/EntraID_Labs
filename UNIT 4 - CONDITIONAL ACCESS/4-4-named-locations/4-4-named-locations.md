@@ -1,7 +1,7 @@
 # Named Locations — Trusted and Untrusted Networks
 *Your office network is not the same as an unknown hotel Wi-Fi. Conditional Access can tell the difference.*
 
-> 🟢 **Beginner** · Unit 4, Module 4.4 · ⏱️ 45 minutes
+> 🟢 **Beginner** · Unit 4, Module 4.4
 
 ---
 
@@ -50,7 +50,6 @@ A policy with **Locations → Include: All trusted locations** applies to sign-i
 
 ## Lab 4.4.1 — Create a Trusted IP-Range Named Location
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Security Defaults disabled (Module 4.1)
 
@@ -75,7 +74,6 @@ A policy with **Locations → Include: All trusted locations** applies to sign-i
 
 ## Lab 4.4.2 — Create a Countries Named Location
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 4.4.1 complete
 
@@ -96,7 +94,6 @@ You now have two named locations: a trusted IP range and a list of allowed count
 
 ## Lab 4.4.3 — Build a Location-Based CA Policy
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Labs 4.4.1 and 4.4.2 complete
 

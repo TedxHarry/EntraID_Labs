@@ -162,7 +162,6 @@ Labs are the most important part of every module. Everything else exists to prep
 ```markdown
 ## Lab [X.Y.Z] — [Lab Title]
 
-**Time:** [estimated minutes]
 **Tools:** [list: Entra admin center / PowerShell / Graph Explorer / etc.]
 **Prerequisite:** [what must exist before this lab — user accounts, previous config, etc.]
 ```
@@ -241,7 +240,7 @@ Labs must reflect the actual current Entra admin center UI as of early 2026.
 # [Module Title]
 *[One sharp phrase — what changes for the learner after this module]*
 
-> 🟢 **Beginner** · Unit [N], Module [N.M] · ⏱️ [estimated time] minutes
+> 🟢 **Beginner** · Unit [N], Module [N.M]
 
 ---
 ```
@@ -456,7 +455,7 @@ PowerShell labs should come *after* the portal version of the same task in early
 
 ## Final Checklist Before Submitting
 
-- [ ] Module header has difficulty badge, unit, module number, and time estimate
+- [ ] Module header has difficulty badge, unit, and module number
 - [ ] "What You Will Learn" bullets are outcomes (can do X) not topics (learn about X)
 - [ ] "Why This Matters" includes the SC-300 exam objective for modules in Units 2–11
 - [ ] Every lab step is specific enough to follow without prior knowledge
@@ -469,6 +468,5 @@ PowerShell labs should come *after* the portal version of the same task in early
 - [ ] Navigation links point to correct previous and next module files
 - [ ] File is named correctly: `[unit]-[module]-[slug].md`
 - [ ] Difficulty badge matches the module content (🟢/🟡/🔴)
-- [ ] Time estimate is realistic — a beginner following carefully, not an expert skimming
 - [ ] Any feature requiring a paid license has a licensing callout at the start of the lab
 - [ ] No AI-associated filler language: "delve", "leverage", "seamless", "comprehensive", "Let's explore", "In this module we will"

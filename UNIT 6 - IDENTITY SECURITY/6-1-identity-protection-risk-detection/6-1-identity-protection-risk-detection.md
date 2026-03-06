@@ -1,7 +1,7 @@
 # Identity Protection and Risk Detection
 *Entra ID watches every sign-in for signs of compromise. Here's what it's looking for and what you can do about it.*
 
-> 🟡 **Intermediate** · Unit 6, Module 6.1 · ⏱️ 60 minutes
+> 🟡 **Intermediate** · Unit 6, Module 6.1
 
 ---
 
@@ -93,7 +93,6 @@ Think of it as a security camera for sign-in events — it watches, records, and
 
 ## Lab 6.1.1 — Enable Identity Protection
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Module 1.1 (tenant exists)
 
@@ -132,7 +131,6 @@ Now Identity Protection is active and will respond to risky sign-ins.
 
 ## Lab 6.1.2 — Explore the Identity Protection Dashboard
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 6.1.1 complete
 
@@ -166,7 +164,6 @@ Now Identity Protection is active and will respond to risky sign-ins.
 
 ## Lab 6.1.3 — Simulate a Risky Sign-In (Understanding Risk Detection)
 
-**Time:** 20 minutes
 **Tools:** InPrivate browser, multiple locations
 **Prerequisite:** Lab 6.1.2 complete
 
@@ -203,7 +200,6 @@ You'll simulate what a risky sign-in looks like from an admin perspective.
 
 ## Lab 6.1.4 — Test Risk-Based Conditional Access
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 6.1.3 complete; Module 4.8 (CA policies) understood
 

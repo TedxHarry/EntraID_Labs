@@ -1,7 +1,7 @@
 # User Properties and What They Drive
 *Three properties you thought were cosmetic are running your entire access model*
 
-> 🟢 **Beginner** · Unit 2, Module 2.2 · ⏱️ 50 minutes
+> 🟢 **Beginner** · Unit 2, Module 2.2
 
 ---
 
@@ -83,7 +83,6 @@ When you try to assign a Microsoft 365 license to a user with no usage location 
 
 ## Lab 2.2.1 — Set Manager Relationships for All Contoso Users
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** All five Contoso users created in Module 2.1 (Alex Lee, Morgan Chen, Jordan Kim, Sam Taylor, River Patel)
 
@@ -140,7 +139,6 @@ Now set Sam Taylor's manager.
 
 ## Lab 2.2.2 — Watch Department Drive Group Membership in Real Time
 
-**Time:** 20 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 2.2.1 complete. All five Contoso users exist with correct departments from Module 2.1.
 
@@ -195,7 +193,6 @@ This lab requires a dynamic group. You will create a simple one here. Module 2.4
 
 ## Lab 2.2.3 — Break and Fix a Licensing Block Caused by Missing Usage Location
 
-**Time:** 15 minutes
 **Tools:** Entra admin center, PowerShell
 **Prerequisite:** All five Contoso users have Usage location set to United States (from Module 2.1)
 

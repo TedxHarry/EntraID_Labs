@@ -1,7 +1,7 @@
 # Report-Only Mode and Testing Safely
 *Report-Only mode is not optional. It is how you avoid breaking your organization.*
 
-> 🟢 **Beginner** · Unit 4, Module 4.7 · ⏱️ 60 minutes
+> 🟢 **Beginner** · Unit 4, Module 4.7
 
 ---
 
@@ -116,7 +116,6 @@ The What-If tool lets you simulate a policy without waiting for real sign-ins to
 
 ## Lab 4.7.1 — Analyze Report-Only Data: Measure Impact of One Policy
 
-**Time:** 20 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Labs 4.3 and 4.4 complete (at least two CA policies created in Report-Only)
 
@@ -180,7 +179,6 @@ Details: Jordan attempted to sign into Azure Portal from Germany.
 
 ## Lab 4.7.2 — Use What-If Tool: Simulate Policy Impact for Key Users
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 4.7.1 complete
 
@@ -234,7 +232,6 @@ The What-If tool lets you test scenarios without waiting for them to occur natur
 
 ## Lab 4.7.3 — Transition One Policy from Report-Only to Enforce
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Labs 4.7.1 and 4.7.2 complete
 
@@ -283,7 +280,6 @@ Now you will take one policy from Report-Only to Enforce. Choose the policy with
 
 ## Lab 4.7.4 — Test the Enforced Policy: Verify It Works Correctly
 
-**Time:** 10 minutes
 **Tools:** Browser, Entra admin center
 **Prerequisite:** Lab 4.7.3 complete
 

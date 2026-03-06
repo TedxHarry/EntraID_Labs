@@ -1,7 +1,7 @@
 # Scenario Lab: Secure Your Tenant's Authentication — End to End
 *No step-by-step. You have the tools. Find the gaps. Fix them.*
 
-> 🟡 **Intermediate** · Unit 3, Module 3.7 · ⏱️ 90 minutes
+> 🟡 **Intermediate** · Unit 3, Module 3.7
 
 ---
 
@@ -43,7 +43,6 @@ Fix all four findings. Produce a brief written summary (as a comment at the end 
 
 ## Lab 3.7.1 — Audit and Remediate SMS Access
 
-**Time:** ~15 minutes
 **Tools:** Entra admin center, PowerShell
 
 Complete these tasks without step-by-step guidance:
@@ -59,7 +58,6 @@ Complete these tasks without step-by-step guidance:
 
 ## Lab 3.7.2 — Get All Users MFA-Ready
 
-**Time:** ~25 minutes
 **Tools:** Entra admin center, PowerShell
 
 Complete these tasks:
@@ -75,7 +73,6 @@ Complete these tasks:
 
 ## Lab 3.7.3 — Implement Sign-In Frequency for Finance SharePoint
 
-**Time:** ~20 minutes
 **Tools:** Entra admin center
 
 Complete these tasks:
@@ -93,7 +90,6 @@ Complete these tasks:
 
 ## Lab 3.7.4 — Create the Session Revocation Procedure
 
-**Time:** ~10 minutes
 **Tools:** Entra admin center, this file or a notes document
 
 Write a procedure that Jordan Kim (IT Administrator) can follow to revoke a user's sessions when a security incident is suspected. The procedure must include:

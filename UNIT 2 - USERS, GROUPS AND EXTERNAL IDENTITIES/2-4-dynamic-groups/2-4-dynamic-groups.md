@@ -1,7 +1,7 @@
 # Dynamic Groups — Auto-Membership from Attributes
 *Build it once. Every new hire, transfer, and departure updates it automatically.*
 
-> 🟢 **Beginner** · Unit 2, Module 2.4 · ⏱️ 55 minutes
+> 🟢 **Beginner** · Unit 2, Module 2.4
 
 ---
 
@@ -109,7 +109,6 @@ Use this tool every time. A rule with a typo in a department name will silently 
 
 ## Lab 2.4.1 — Update and Validate the Finance-Dynamic Group Rule
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Finance-Dynamic group exists from Module 2.2. Alex Lee has Department = Finance.
 
@@ -155,7 +154,6 @@ The Finance-Dynamic group currently uses a single condition: `user.department -e
 
 ## Lab 2.4.2 — Write a Multi-Department Rule
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** All five Contoso users exist with correct departments
 
@@ -186,7 +184,6 @@ Create a new group that includes users from both Finance and HR departments. Thi
 
 ## Lab 2.4.3 — Trigger a Membership Change and Observe
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Finance-HR-Combined group exists. River Patel has Department = HR.
 

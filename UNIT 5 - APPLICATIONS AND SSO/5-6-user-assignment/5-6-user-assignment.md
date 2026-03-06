@@ -1,7 +1,7 @@
 # User Assignment — Control Who Can Access an App
 *SSO means everyone can sign in. User assignment means only the right people can.*
 
-> 🟢 **Beginner** · Unit 5, Module 5.6 · ⏱️ 45 minutes
+> 🟢 **Beginner** · Unit 5, Module 5.6
 
 ---
 
@@ -56,7 +56,6 @@ Modules 5.1–5.5 taught *how to set up SSO*. This module teaches *who gets to u
 
 ## Lab 5.6.1 — Enable Assignment Required on Slack
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Module 5.5 complete; Slack is configured with SSO
 
@@ -76,7 +75,6 @@ Now only users explicitly assigned to Slack can access it. Anyone else who tries
 
 ## Lab 5.6.2 — Assign Users to the App
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 5.6.1 complete
 
@@ -104,7 +102,6 @@ Now only users explicitly assigned to Slack can access it. Anyone else who tries
 
 ## Lab 5.6.3 — Test Access: Assigned vs Unassigned User
 
-**Time:** 15 minutes
 **Tools:** InPrivate browser, Slack workspace
 **Prerequisite:** Lab 5.6.2 complete
 
@@ -155,7 +152,6 @@ Now only users explicitly assigned to Slack can access it. Anyone else who tries
 
 ## Lab 5.6.4 — Assign a Group Instead of Individual Users
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 5.6.3 complete
 
@@ -189,7 +185,6 @@ You've assigned individual users. Now see the scalable approach: group assignmen
 
 ## Lab 5.6.5 — Apply Conditional Access to an App
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Module 4.8 (Unit 4) complete; CA policies exist
 

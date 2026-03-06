@@ -1,7 +1,7 @@
 # Access Packages — Build Resource Bundles for Users to Request
 *Group related resources (groups, apps, sites) into packages so users can request them together.*
 
-> 🟡 **Intermediate** · Unit 8, Module 8.2 · ⏱️ 50 minutes
+> 🟡 **Intermediate** · Unit 8, Module 8.2
 
 ---
 
@@ -61,7 +61,6 @@ Make it available to users for requests.
 
 ## Lab 8.2.1 — Create a Catalog
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Module 8.1 complete
 
@@ -84,7 +83,6 @@ Goal: Create a catalog for Finance team access packages.
 
 ## Lab 8.2.2 — Create Your First Access Package
 
-**Time:** 20 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 8.2.1 complete
 
@@ -195,7 +193,6 @@ Goal: Create "Finance Team Access" package.
 
 ## Lab 8.2.3 — Verify Package Configuration
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 8.2.2 complete
 
@@ -224,7 +221,6 @@ Verify that the package is configured correctly.
 
 ## Lab 8.2.4 — Create a Second Package (Manager Access)
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 8.2.3 complete
 
@@ -269,7 +265,6 @@ Create a more restrictive package for Finance managers.
 
 ## Lab 8.2.5 — Test Self-Service Request (As User)
 
-**Time:** 10 minutes
 **Tools:** My Access portal
 **Prerequisite:** Lab 8.2.4 complete
 
@@ -301,7 +296,6 @@ Next module shows how managers approve this request.
 
 ## Lab 8.2.6 — Manage Package Lifecycle
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 8.2.5 complete
 

@@ -1,7 +1,7 @@
 # Adding a Gallery App and First SSO
 *The moment you configure single sign-on is the moment your app becomes part of your identity system.*
 
-> 🟢 **Beginner** · Unit 5, Module 5.3 · ⏱️ 60 minutes
+> 🟢 **Beginner** · Unit 5, Module 5.3
 
 ---
 
@@ -69,7 +69,6 @@ If any one of these is missing or wrong, SSO fails silently — the user sees "a
 
 ## Lab 5.3.1 — Add Slack from the Gallery and Start SSO Setup
 
-**Time:** 20 minutes
 **Tools:** Entra admin center, Slack admin account
 **Prerequisite:** Module 5.1 complete (you may have already added Slack in Lab 5.1.1)
 
@@ -101,7 +100,6 @@ If any one of these is missing or wrong, SSO fails silently — the user sees "a
 
 ## Lab 5.3.2 — Configure Basic SAML Details (Entra ID Side)
 
-**Time:** 15 minutes
 **Tools:** Entra admin center, Slack admin settings (you'll need Slack admin credentials)
 **Prerequisite:** Lab 5.3.1 complete
 
@@ -141,7 +139,6 @@ This lab requires **Slack admin credentials**. If you don't have a Slack account
 
 ## Lab 5.3.3 — Map User Attributes and Assign Users
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 5.3.2 complete
 
@@ -175,7 +172,6 @@ This lab requires **Slack admin credentials**. If you don't have a Slack account
 
 ## Lab 5.3.4 — Test SSO from the User Perspective
 
-**Time:** 10 minutes
 **Tools:** InPrivate browser, Slack workspace
 **Prerequisite:** Lab 5.3.3 complete, and SSO configured in your Slack admin settings
 
@@ -206,7 +202,6 @@ This lab requires **Slack admin credentials**. If you don't have a Slack account
 
 ## Lab 5.3.5 — Verify the SSO Configuration in Entra ID
 
-**Time:** 5 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 5.3.4 complete (successful SSO test)
 

@@ -1,7 +1,7 @@
 # Breakfix: Incident Response Lab
 *An account is actively compromised. You have the logs. You have the tools. Respond to a real-looking incident from detection to recovery.*
 
-> 🔴 **Advanced** · Unit 6, Module 6.6 · ⏱️ 90 minutes
+> 🔴 **Advanced** · Unit 6, Module 6.6
 
 ---
 
@@ -25,7 +25,6 @@ Modules 6.1–6.5 taught you incident response techniques individually. This lab
 
 ## The Scenario: Live Incident
 
-**Time:** Tuesday, 2:15 PM
 **Alert:** Your SOC (Security Operations Center) sends this notification:
 
 > **SECURITY ALERT — Possible Account Compromise**
@@ -61,7 +60,6 @@ Your first action: **Revoke Morgan's sessions.**
 
 ## Lab 6.6.1 — Immediate Containment (Minute 1)
 
-**Time:** 5 minutes
 **Tools:** Entra admin center
 **Scenario context:** You've just received the alert. Assume impossible travel detection is high confidence. Act now.
 
@@ -110,7 +108,6 @@ Immediate question: Is this a real compromise or a false alarm (legitimate trave
 
 ## Lab 6.6.2 — Investigation Phase 1: Sign-In Logs (Minutes 5–20)
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Scenario context:** Morgan confirms she was in NYC all day. She didn't sign in from Tokyo. The compromise is real.
 
@@ -171,7 +168,6 @@ Immediate question: Is this a real compromise or a false alarm (legitimate trave
 
 ## Lab 6.6.3 — Investigation Phase 2: Audit Logs (Minutes 20–35)
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Scenario context:** You understand the sign-in timeline. Now investigate what the attacker *did*.
 
@@ -229,7 +225,6 @@ Based on audit logs, what was the attacker trying to do?
 
 ## Lab 6.6.4 — Investigation Phase 3: Scope (Minutes 35–50)
 
-**Time:** 15 minutes
 **Tools:** Entra admin center, Azure
 **Scenario context:** You've documented Morgan's compromise. Now investigate: Is Morgan alone, or are other accounts compromised?
 
@@ -278,7 +273,6 @@ An attacker with access might create a hidden admin account to maintain persiste
 
 ## Lab 6.6.5 — Recovery: Undo Attacker Changes (Minutes 50–70)
 
-**Time:** 20 minutes
 **Tools:** Entra admin center, Exchange admin center
 **Scenario context:** You've contained and investigated. Now repair the damage.
 
@@ -328,7 +322,6 @@ If the attacker deleted emails:
 
 ## Lab 6.6.6 — Strengthen: Prevent Recurrence (Minutes 70–85)
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Scenario context:** Morgan's account is now secured. Prevent this from happening to Morgan or anyone else.
 
@@ -395,7 +388,6 @@ Take this opportunity to strengthen the entire organization:
 
 ## Lab 6.6.7 — Documentation and Communication (Minutes 85–90)
 
-**Time:** 5 minutes
 **Tools:** Word document or notepad
 **Scenario context:** Incident is contained and recovered. Document it.
 

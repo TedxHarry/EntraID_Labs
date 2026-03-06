@@ -1,7 +1,7 @@
 # SAML SSO — Step by Step
 *SAML is XML. When you decode it, you see exactly what Entra ID told the app about the user.*
 
-> 🟡 **Intermediate** · Unit 5, Module 5.4 · ⏱️ 60 minutes
+> 🟡 **Intermediate** · Unit 5, Module 5.4
 
 ---
 
@@ -123,7 +123,6 @@ If Entra ID sends `emailaddress` but Slack expects `email`, Slack won't find the
 
 ## Lab 5.4.1 — Configure SAML Attributes in Detail
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Module 5.3 complete; Slack SSO already set up
 
@@ -151,7 +150,6 @@ If Entra ID sends `emailaddress` but Slack expects `email`, Slack won't find the
 
 ## Lab 5.4.2 — Download and Decode the SAML Assertion
 
-**Time:** 20 minutes
 **Tools:** Entra admin center, browser developer tools
 **Prerequisite:** Lab 5.4.1 complete, Slack SSO working
 
@@ -197,7 +195,6 @@ When a user signs in, the SAML assertion is sent as an HTTP POST in an HTML form
 
 ## Lab 5.4.3 — Diagnose a SAML Failure
 
-**Time:** 15 minutes
 **Tools:** Entra admin center, browser developer tools
 **Prerequisite:** Lab 5.4.2 complete
 

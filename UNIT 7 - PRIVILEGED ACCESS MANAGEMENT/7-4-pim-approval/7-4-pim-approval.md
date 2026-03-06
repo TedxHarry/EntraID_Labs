@@ -1,7 +1,7 @@
 # PIM Approval Workflows
 *Design approval processes that balance security with speed, and handle emergencies.*
 
-> 🟡 **Intermediate** · Unit 7, Module 7.4 · ⏱️ 50 minutes
+> 🟡 **Intermediate** · Unit 7, Module 7.4
 
 ---
 
@@ -89,7 +89,6 @@ Different requests should have different approval rules:
 
 ## Lab 7.4.1 — Design an Approval Chain
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Module 7.2 complete
 
@@ -146,7 +145,6 @@ For Contoso, define:
 
 ## Lab 7.4.2 — Configure Risk-Based Approval Rules
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 7.4.1 complete
 
@@ -198,7 +196,6 @@ After configuration, test:
 
 ## Lab 7.4.3 — Configure Emergency Access (Break-Glass)
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Module 4.1 (break-glass accounts configured)
 
@@ -253,7 +250,6 @@ After incident:
 
 ## Lab 7.4.4 — Monitor Approval Queue and SLAs
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 7.4.3 complete; you have some approval requests (real or test)
 
@@ -311,7 +307,6 @@ SLA = Service Level Agreement. Example: "Approve all activation requests within 
 
 ## Lab 7.4.5 — Test Approval Workflow (End-to-End)
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Labs 7.4.1-7.4.4 complete
 

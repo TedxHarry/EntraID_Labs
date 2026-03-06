@@ -1,7 +1,7 @@
 # The Authentication Methods Policy
 *One policy controls what every user in your tenant can use to prove their identity. Get it wrong once, it affects everyone.*
 
-> 🟢 **Beginner** · Unit 3, Module 3.2 · ⏱️ 45 minutes
+> 🟢 **Beginner** · Unit 3, Module 3.2
 
 ---
 
@@ -70,7 +70,6 @@ Shows the application name and sign-in location inside the MFA prompt. Enables u
 
 ## Lab 3.2.1 — Review the Current Authentication Methods Policy
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** None
 
@@ -99,7 +98,6 @@ Shows the application name and sign-in location inside the MFA prompt. Enables u
 
 ## Lab 3.2.2 — Enable Microsoft Authenticator with Number Matching
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 3.2.1 complete
 
@@ -123,7 +121,6 @@ Shows the application name and sign-in location inside the MFA prompt. Enables u
 
 ## Lab 3.2.3 — Enable FIDO2 Security Keys
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 3.2.2 complete
 
@@ -146,7 +143,6 @@ Shows the application name and sign-in location inside the MFA prompt. Enables u
 
 ## Lab 3.2.4 — Restrict SMS to a Break-Glass Group
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 3.2.3 complete
 

@@ -1,7 +1,7 @@
 # Incident Response — Compromised Accounts
 *Your account is actively being attacked. Here's the step-by-step playbook to contain, investigate, and recover.*
 
-> 🔴 **Advanced** · Unit 6, Module 6.5 · ⏱️ 60 minutes
+> 🔴 **Advanced** · Unit 6, Module 6.5
 
 ---
 
@@ -78,7 +78,6 @@ This module walks you through the response playbook.
 
 ## Lab 6.5.1 — Revoke All Sessions for a Compromised Account
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Module 6.1 complete; a test user account exists
 
@@ -110,7 +109,6 @@ This module walks you through the response playbook.
 
 ## Lab 6.5.2 — Reset Password for Compromised Account
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 6.5.1 complete
 
@@ -144,7 +142,6 @@ Now that sessions are revoked, reset the password so the attacker's password bec
 
 ## Lab 6.5.3 — Review Sign-In Logs to Understand the Attack
 
-**Time:** 20 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 6.5.2 complete
 
@@ -182,7 +179,6 @@ Investigate what the attacker did while they had access.
 
 ## Lab 6.5.4 — Review Audit Logs for Account Modifications
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 6.5.3 complete
 
@@ -232,7 +228,6 @@ Beyond sign-ins, check what the attacker *did* while they had access.
 
 ## Lab 6.5.5 — Undo Attacker Changes (Mailbox Delegates)
 
-**Time:** 10 minutes
 **Tools:** Outlook/Exchange admin center
 **Prerequisite:** Lab 6.5.4 complete; you found suspicious delegates
 
@@ -261,7 +256,6 @@ If the attacker added themselves as a mailbox delegate (to read all emails forev
 
 ## Lab 6.5.6 — Strengthen Authentication (Enable MFA and Passwordless)
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 6.5.5 complete; account is now contained
 
@@ -298,7 +292,6 @@ Now that the account is secured, strengthen it to prevent recompromise.
 
 ## Lab 6.5.7 — Create an Incident Response Policy (Automation)
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Module 6.1 complete; Identity Protection is enabled
 

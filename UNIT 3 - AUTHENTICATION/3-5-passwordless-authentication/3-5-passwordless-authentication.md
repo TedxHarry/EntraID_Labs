@@ -1,7 +1,7 @@
 # Passwordless Authentication
 *Removing the password does not weaken authentication — it eliminates the attack surface that passwords create.*
 
-> 🟡 **Intermediate** · Unit 3, Module 3.5 · ⏱️ 50 minutes
+> 🟡 **Intermediate** · Unit 3, Module 3.5
 
 ---
 
@@ -65,7 +65,6 @@ No password was typed. No password was transmitted. The number matching prevents
 
 ## Lab 3.5.1 — Enable Passwordless Sign-In in the Authentication Methods Policy
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Microsoft Authenticator is enabled for All users (from Module 3.2)
 
@@ -85,7 +84,6 @@ No password was typed. No password was transmitted. The number matching prevents
 
 ## Lab 3.5.2 — Configure Passwordless Sign-In for Alex Lee
 
-**Time:** 20 minutes
 **Tools:** Browser (InPrivate), Microsoft Authenticator app
 **Prerequisite:** Microsoft Authenticator is registered for Alex Lee (from Module 3.3). Passwordless mode is enabled in the policy (Lab 3.5.1).
 
@@ -109,7 +107,6 @@ No password was typed. No password was transmitted. The number matching prevents
 
 ## Lab 3.5.3 — Experience the Passwordless Sign-In Flow
 
-**Time:** 10 minutes
 **Tools:** Browser (InPrivate), phone with Authenticator app configured for passwordless
 **Prerequisite:** Lab 3.5.2 complete
 

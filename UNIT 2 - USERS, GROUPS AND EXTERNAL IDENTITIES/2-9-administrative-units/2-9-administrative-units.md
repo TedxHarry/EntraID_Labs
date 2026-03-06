@@ -1,7 +1,7 @@
 # Administrative Units — Delegated Admin Without Full Tenant Access
 *The difference between "manage users in IT" and "manage all users in the tenant" is an Administrative Unit.*
 
-> 🟡 **Intermediate** · Unit 2, Module 2.9 · ⏱️ 50 minutes
+> 🟡 **Intermediate** · Unit 2, Module 2.9
 
 ---
 
@@ -66,7 +66,6 @@ Global Administrator cannot be scoped to an AU — it is always tenant-wide.
 
 ## Lab 2.9.1 — Create an Administrative Unit for the IT Department
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Jordan Kim exists as an IT Administrator user (from Module 2.1)
 
@@ -100,7 +99,6 @@ Global Administrator cannot be scoped to an AU — it is always tenant-wide.
 
 ## Lab 2.9.2 — Assign a Scoped Role to an Administrator
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 2.9.1 complete
 
@@ -132,7 +130,6 @@ You will assign the User Administrator role to your Global Administrator account
 
 ## Lab 2.9.3 — Test the Scope Boundary
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 2.9.2 complete
 

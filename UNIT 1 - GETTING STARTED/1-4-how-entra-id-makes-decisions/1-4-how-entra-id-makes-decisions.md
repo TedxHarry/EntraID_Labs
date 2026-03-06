@@ -1,7 +1,7 @@
 # How Entra ID Makes Decisions
 *You can trace any sign-in from start to finish, read every field in a log entry, and decode an access token.*
 
-> 🟢 **Beginner** · Unit 1, Module 1.4 · ⏱️ 50 minutes
+> 🟢 **Beginner** · Unit 1, Module 1.4
 
 ---
 
@@ -140,7 +140,6 @@ A decoded access token contains claims — key-value pairs that describe the use
 
 ## Lab 1.4.1 — Trace a Sign-In Through the Logs
 
-**Time:** 15 minutes
 **Tools:** Entra admin center, InPrivate browser window
 **Prerequisite:** Test User 01 created in Module 1.1. Know their UPN and password.
 
@@ -179,7 +178,6 @@ A decoded access token contains claims — key-value pairs that describe the use
 
 ## Lab 1.4.2 — Decode an Access Token at jwt.ms
 
-**Time:** 15 minutes
 **Tools:** `jwt.ms`, Graph Explorer (`aka.ms/ge`), InPrivate browser window
 **Prerequisite:** Lab 1.4.1 completed.
 
@@ -223,7 +221,6 @@ A decoded access token contains claims — key-value pairs that describe the use
 
 ## Lab 1.4.3 — Simulate Failures and Find Them in the Logs
 
-**Time:** 15 minutes
 **Tools:** Entra admin center, InPrivate browser window
 **Prerequisite:** Labs 1.4.1 and 1.4.2 completed.
 

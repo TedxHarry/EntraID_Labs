@@ -1,7 +1,7 @@
 # Lifecycle Management — Auto-Expire Access, Force Reviews, and Clean Up
 *Access should be temporary. After X days, it expires unless renewed. This prevents access creep.*
 
-> 🟡 **Intermediate** · Unit 8, Module 8.4 · ⏱️ 50 minutes
+> 🟡 **Intermediate** · Unit 8, Module 8.4
 
 ---
 
@@ -47,7 +47,6 @@ Expiration Notice Sent (30 days before expiration)
 
 ## Lab 8.4.1 — Configure Access Expiration
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Module 8.3 complete; access packages configured
 
@@ -69,7 +68,6 @@ Goal: Set access to expire after 90 days.
 
 ## Lab 8.4.2 — Configure Renewal Workflows
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 8.4.1 complete
 
@@ -99,7 +97,6 @@ Goal: Allow users to renew access before it expires.
 
 ## Lab 8.4.3 — Enable Access Review
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 8.4.2 complete
 
@@ -125,7 +122,6 @@ Goal: Require managers to periodically review access.
 
 ## Lab 8.4.4 — Monitor Expiration and Renewal Activity
 
-**Time:** 15 minutes
 **Tools:** Entitlement Management
 **Prerequisite:** Lab 8.4.3 complete; let some time pass or simulate expiring access
 
@@ -152,7 +148,6 @@ Goal: Track access that's expiring, being renewed, or expired.
 
 ## Lab 8.4.5 — Test Renewal Workflow
 
-**Time:** 15 minutes
 **Tools:** Entitlement Management
 **Prerequisite:** Lab 8.4.4 complete; you have an assignment expiring soon
 
@@ -205,7 +200,6 @@ Scenario: Alex's access is about to expire. She renews it.
 
 ## Lab 8.4.6 — Handle Expired Access
 
-**Time:** 10 minutes
 **Tools:** Entitlement Management
 **Prerequisite:** Lab 8.4.5 complete; you have expired access
 
@@ -234,7 +228,6 @@ Goal: Understand and cleanup expired access.
 
 ## Lab 8.4.7 — Create Escalation for Expiration
 
-**Time:** 10 minutes
 **Tools:** Entitlement Management
 **Prerequisite:** Lab 8.4.6 complete
 

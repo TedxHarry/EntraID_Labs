@@ -1,7 +1,7 @@
 # Approval Workflows — Control Who Approves Access Requests
 *Route requests to managers, directors, or specific roles. Automate or require human judgment.*
 
-> 🟡 **Intermediate** · Unit 8, Module 8.3 · ⏱️ 50 minutes
+> 🟡 **Intermediate** · Unit 8, Module 8.3
 
 ---
 
@@ -79,7 +79,6 @@ An access package without approvals is a free-for-all. Approvals ensure that onl
 
 ## Lab 8.3.1 — Configure Manager-Based Approval
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Module 8.2 complete; "Finance Team Access" package exists
 
@@ -105,7 +104,6 @@ Goal: Set up automatic manager approval for Finance Team Access.
 
 ## Lab 8.3.2 — Configure Multi-Level Approval
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 8.3.1 complete; "Finance Manager Access" package exists
 
@@ -137,7 +135,6 @@ Goal: Set up Finance Manager Access to require both manager and director approva
 
 ## Lab 8.3.3 — Test Approval Workflow
 
-**Time:** 20 minutes
 **Tools:** Entitlement Management
 **Prerequisite:** Lab 8.3.2 complete; approval settings configured
 
@@ -200,7 +197,6 @@ Scenario: Alex (Finance employee) requests "Finance Team Access." River (her man
 
 ## Lab 8.3.4 — Test Denial Scenario
 
-**Time:** 10 minutes
 **Tools:** Entitlement Management
 **Prerequisite:** Lab 8.3.3 complete
 
@@ -236,7 +232,6 @@ Scenario: Someone requests access but doesn't have legitimate need. Test denial.
 
 ## Lab 8.3.5 — Monitor Approval Metrics
 
-**Time:** 10 minutes
 **Tools:** Entitlement Management
 **Prerequisite:** Lab 8.3.4 complete; you have approval activity
 
@@ -267,7 +262,6 @@ Goal: Check approval performance.
 
 ## Lab 8.3.6 — Configure SLA and Escalation
 
-**Time:** 10 minutes
 **Tools:** Entitlement Management
 **Prerequisite:** Lab 8.3.5 complete
 

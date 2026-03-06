@@ -1,7 +1,7 @@
 # Risky Users and Remediation
 *When an account is flagged as compromised, you have minutes to act before the attacker steals everything.*
 
-> 🟡 **Intermediate** · Unit 6, Module 6.3 · ⏱️ 55 minutes
+> 🟡 **Intermediate** · Unit 6, Module 6.3
 
 ---
 
@@ -65,7 +65,6 @@ When Entra ID flags a **user as risky**, it means the account itself is likely c
 
 ## Lab 6.3.1 — Review Risky Users Dashboard
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Module 6.1 complete
 
@@ -93,7 +92,6 @@ When Entra ID flags a **user as risky**, it means the account itself is likely c
 
 ## Lab 6.3.2 — Investigate a Risky User
 
-**Time:** 20 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 6.3.1 complete; you have a risky user to investigate
 
@@ -124,7 +122,6 @@ When Entra ID flags a **user as risky**, it means the account itself is likely c
 
 ## Lab 6.3.3 — Remediate a Compromised Account
 
-**Time:** 20 minutes
 **Tools:** Entra admin center, PowerShell (optional)
 **Prerequisite:** Lab 6.3.2 complete; you've identified an account as compromised
 
@@ -183,7 +180,6 @@ When Entra ID flags a **user as risky**, it means the account itself is likely c
 
 ## Lab 6.3.4 — Dismiss or Resolve Risk (After Remediation)
 
-**Time:** 5 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 6.3.3 complete; remediation done
 
@@ -205,7 +201,6 @@ After you've remediated the account, dismiss or resolve the risk flag.
 
 ## Lab 6.3.5 — Create a User Risk Remediation Policy
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Module 6.1 complete
 

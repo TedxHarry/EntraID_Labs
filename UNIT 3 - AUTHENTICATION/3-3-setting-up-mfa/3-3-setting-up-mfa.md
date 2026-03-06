@@ -1,7 +1,7 @@
 # Setting Up MFA
 *A policy that requires MFA is useless if the user has no MFA method registered.*
 
-> 🟢 **Beginner** · Unit 3, Module 3.3 · ⏱️ 45 minutes
+> 🟢 **Beginner** · Unit 3, Module 3.3
 
 ---
 
@@ -68,7 +68,6 @@ A TAP is not an MFA substitute in production. It is a bridge to get a user to a 
 
 ## Lab 3.3.1 — Register Microsoft Authenticator for Alex Lee
 
-**Time:** 15 minutes
 **Tools:** Browser (InPrivate), Microsoft Authenticator app on a mobile device
 **Prerequisite:** Alex Lee exists. Microsoft Authenticator is enabled in the Authentication Methods Policy (Module 3.2). You have the Microsoft Authenticator app installed on a phone.
 
@@ -108,7 +107,6 @@ A TAP is not an MFA substitute in production. It is a bridge to get a user to a 
 
 ## Lab 3.3.2 — Check MFA Registration Status Across All Contoso Users
 
-**Time:** 15 minutes
 **Tools:** Entra admin center, PowerShell
 **Prerequisite:** Lab 3.3.1 complete
 
@@ -160,7 +158,6 @@ foreach ($user in $users) {
 
 ## Lab 3.3.3 — Issue a Temporary Access Pass for Morgan Chen
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Temporary Access Pass is enabled in the Authentication Methods Policy
 

@@ -1,7 +1,7 @@
 # Breakfix: Identity Governance Lab
 *Design and implement a complete entitlement system, then handle the full access lifecycle.*
 
-> 🔴 **Advanced** · Unit 8, Module 8.5 · ⏱️ 90 minutes
+> 🔴 **Advanced** · Unit 8, Module 8.5
 
 ---
 

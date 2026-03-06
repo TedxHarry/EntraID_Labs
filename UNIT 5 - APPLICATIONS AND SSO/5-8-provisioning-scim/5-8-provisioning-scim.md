@@ -1,7 +1,7 @@
 # Automated Provisioning with SCIM
 *Create and update user accounts in SaaS apps automatically — no manual spreadsheets, no forgotten offboardings.*
 
-> 🟡 **Intermediate** · Unit 5, Module 5.8 · ⏱️ 60 minutes
+> 🟡 **Intermediate** · Unit 5, Module 5.8
 
 ---
 
@@ -78,7 +78,6 @@ The app receives these commands via SCIM and applies them to its own user databa
 
 ## Lab 5.8.1 — Enable SCIM Provisioning for Slack
 
-**Time:** 20 minutes
 **Tools:** Entra admin center, Slack admin settings
 **Prerequisite:** Module 5.3 complete; Slack SSO is configured
 
@@ -118,7 +117,6 @@ Now Entra ID can connect to Slack for provisioning.
 
 ## Lab 5.8.2 — Set Provisioning Scope
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 5.8.1 complete
 
@@ -140,7 +138,6 @@ Decide which users should be provisioned to Slack.
 
 ## Lab 5.8.3 — Map User Attributes
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 5.8.2 complete
 
@@ -172,7 +169,6 @@ Attribute mapping tells Entra ID how to translate its user data into Slack's for
 
 ## Lab 5.8.4 — Start Provisioning Cycle and Monitor Logs
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 5.8.3 complete
 
@@ -213,7 +209,6 @@ Attribute mapping tells Entra ID how to translate its user data into Slack's for
 
 ## Lab 5.8.5 — Test Deprovisioning (Remove User from Scope)
 
-**Time:** 10 minutes
 **Tools:** Entra admin center, Slack
 **Prerequisite:** Lab 5.8.4 complete; provisioning has run at least once
 

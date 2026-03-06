@@ -1,7 +1,7 @@
 # SSPR — Self-Service Password Reset
 *Every password reset ticket that reaches the helpdesk is a failure of configuration.*
 
-> 🟢 **Beginner** · Unit 3, Module 3.4 · ⏱️ 45 minutes
+> 🟢 **Beginner** · Unit 3, Module 3.4
 
 ---
 
@@ -75,7 +75,6 @@ These are different from the MFA registration URL (`aka.ms/mysecurityinfo`). The
 
 ## Lab 3.4.1 — Enable and Configure SSPR
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** None
 
@@ -103,7 +102,6 @@ These are different from the MFA registration URL (`aka.ms/mysecurityinfo`). The
 
 ## Lab 3.4.2 — Register SSPR Methods as Alex Lee
 
-**Time:** 15 minutes
 **Tools:** Browser (InPrivate), phone with Microsoft Authenticator
 **Prerequisite:** Lab 3.4.1 complete. Microsoft Authenticator is registered on Alex's account from Module 3.3.
 
@@ -127,7 +125,6 @@ These are different from the MFA registration URL (`aka.ms/mysecurityinfo`). The
 
 ## Lab 3.4.3 — Test SSPR as Alex Lee
 
-**Time:** 10 minutes
 **Tools:** Browser (InPrivate)
 **Prerequisite:** Lab 3.4.2 complete
 

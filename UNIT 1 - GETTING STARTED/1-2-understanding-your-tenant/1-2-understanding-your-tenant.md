@@ -1,7 +1,7 @@
 # Understanding Your Tenant
 *You know what a tenant contains, where to find its ID, and which decisions you cannot undo.*
 
-> 🟢 **Beginner** · Unit 1, Module 1.2 · ⏱️ 40 minutes
+> 🟢 **Beginner** · Unit 1, Module 1.2
 
 ---
 
@@ -87,7 +87,6 @@ If Contoso Ltd acquires Fabrikam Ltd — two separate Entra ID tenants — those
 
 ## Lab 1.2.1 — Find Your Tenant ID and Primary Domain
 
-**Time:** 10 minutes
 **Tools:** Entra admin center (`entra.microsoft.com`)
 **Prerequisite:** Module 1.1 completed. Signed in as your sandbox admin account.
 
@@ -112,7 +111,6 @@ If Contoso Ltd acquires Fabrikam Ltd — two separate Entra ID tenants — those
 
 ## Lab 1.2.2 — Explore Tenant-Level Settings
 
-**Time:** 15 minutes
 **Tools:** Entra admin center (`entra.microsoft.com`)
 **Prerequisite:** Lab 1.2.1 completed.
 
@@ -150,7 +148,6 @@ Tenant-level settings are configurations that apply to the entire organization �
 
 ## Lab 1.2.3 — Add a Custom Domain (Optional)
 
-**Time:** 10 minutes
 **Tools:** Entra admin center (`entra.microsoft.com`), access to a domain's DNS settings
 **Prerequisite:** A domain you own with access to its DNS records. Skip this lab if you do not own a domain — the concept is what matters.
 

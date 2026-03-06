@@ -1,7 +1,7 @@
 # Configuring PIM — Make Admin Access Controlled
 *Set up which roles are eligible, which require approval, and what users must do to activate them.*
 
-> 🟡 **Intermediate** · Unit 7, Module 7.2 · ⏱️ 60 minutes
+> 🟡 **Intermediate** · Unit 7, Module 7.2
 
 ---
 
@@ -64,7 +64,6 @@ Module 7.1 explained *why* PIM matters. This module shows you *how to set it up*
 
 ## Lab 7.2.1 — Convert Permanent Admin to Eligible Assignment
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Module 7.1 complete; you identified a permanent admin in Lab 7.1.3
 
@@ -125,7 +124,6 @@ Goal: Take a current permanent admin and make them eligible instead, removing pe
 
 ## Lab 7.2.2 — Configure Role Settings (Approval, MFA, Time Limits)
 
-**Time:** 20 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 7.2.1 complete
 
@@ -206,7 +204,6 @@ Configure how activation works for a high-privilege role.
 
 ## Lab 7.2.3 — Configure Settings for a Low-Privilege Role
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 7.2.2 complete
 
@@ -240,7 +237,6 @@ Demonstrate that not all roles need strict controls. Configure a lower-risk role
 
 ## Lab 7.2.4 — Review PIM Settings (Tenant-Wide Defaults)
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 7.2.3 complete
 
@@ -264,7 +260,6 @@ Check global PIM settings that apply across all roles.
 
 ## Lab 7.2.5 — Set Up a Multi-Level Approval Chain
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 7.2.4 complete
 

@@ -1,7 +1,7 @@
 # Using PIM — Just-in-Time Access
 *You need admin access now. Request it, get approved, activate it, and use it. Then it expires.*
 
-> 🟡 **Intermediate** · Unit 7, Module 7.3 · ⏱️ 50 minutes
+> 🟡 **Intermediate** · Unit 7, Module 7.3
 
 ---
 
@@ -61,7 +61,6 @@ Access expires (or admin manually deactivates)
 
 ## Lab 7.3.1 — Request Role Activation (User Perspective)
 
-**Time:** 15 minutes
 **Tools:** Entra admin center, user identity
 **Prerequisite:** Module 7.2 complete; you've set up eligible admin assignments
 
@@ -117,7 +116,6 @@ Scenario: You are Jordan (IT Admin, eligible for Global Admin but not active). Y
 
 ## Lab 7.3.2 — Monitor Activation Request (As Approver)
 
-**Time:** 10 minutes
 **Tools:** Entra admin center, approver identity
 **Prerequisite:** Lab 7.3.1 complete; you've submitted an activation request
 
@@ -172,7 +170,6 @@ Scenario: You are River (HR Manager, configured as approver in Lab 7.2.2). Jorda
 
 ## Lab 7.3.3 — Complete Activation (MFA)
 
-**Time:** 10 minutes
 **Tools:** Entra admin center, user identity, phone for MFA
 **Prerequisite:** Lab 7.3.2 complete; request has been approved
 
@@ -212,7 +209,6 @@ Back to Jordan's perspective: The request was approved. Now you must activate it
 
 ## Lab 7.3.4 — Verify Active Admin Access
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 7.3.3 complete; activation is active
 
@@ -256,7 +252,6 @@ Verify that you now have admin access and can perform admin tasks.
 
 ## Lab 7.3.5 — Deny an Activation Request (As Approver)
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Previous labs complete; set up another test activation request
 
@@ -302,7 +297,6 @@ Scenario: An unusual activation request arrives. You deny it.
 
 ## Lab 7.3.6 — Manual Deactivation (Early)
 
-**Time:** 5 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 7.3.4 complete; you have active admin role
 

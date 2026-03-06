@@ -1,7 +1,7 @@
 # Consent Settings and Admin Consent Workflow
 *Control whether users can grant apps permission to access their data, or whether apps require admin approval.*
 
-> 🟡 **Intermediate** · Unit 5, Module 5.9 · ⏱️ 60 minutes
+> 🟡 **Intermediate** · Unit 5, Module 5.9
 
 ---
 
@@ -67,7 +67,6 @@ Every Entra ID tenant has a **consent policy** that controls whether users can g
 
 ## Lab 5.9.1 — Configure Tenant-Wide Consent Policy
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Module 5.1 complete
 
@@ -91,7 +90,6 @@ Every Entra ID tenant has a **consent policy** that controls whether users can g
 
 ## Lab 5.9.2 — Enable the Admin Consent Workflow
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 5.9.1 complete
 
@@ -115,7 +113,6 @@ Now when a user tries to use a third-party app and gets a "requires admin consen
 
 ## Lab 5.9.3 — Test User Consent (Blocked Request)
 
-**Time:** 15 minutes
 **Tools:** InPrivate browser, a third-party app
 **Prerequisite:** Lab 5.9.2 complete
 
@@ -143,7 +140,6 @@ You'll test what happens when a user tries to use a third-party app that's block
 
 ## Lab 5.9.4 — Review and Approve Consent Requests (Admin Side)
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 5.9.3 complete; at least one consent request generated
 
@@ -176,7 +172,6 @@ You'll test what happens when a user tries to use a third-party app that's block
 
 ## Lab 5.9.5 — Audit Consent Decisions
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 5.9.4 complete
 
@@ -200,7 +195,6 @@ After approving/denying requests, audit what permissions have been granted.
 
 ## Lab 5.9.6 — Revoke User Consent (Revoke an Approval)
 
-**Time:** 5 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 5.9.5 complete
 

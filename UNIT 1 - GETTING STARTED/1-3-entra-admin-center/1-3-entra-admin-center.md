@@ -1,7 +1,7 @@
 # The Entra Admin Center — Your Workspace
 *You can navigate to any Entra ID feature in under 30 seconds, with or without the search bar.*
 
-> 🟢 **Beginner** · Unit 1, Module 1.3 · ⏱️ 35 minutes
+> 🟢 **Beginner** · Unit 1, Module 1.3
 
 ---
 
@@ -99,7 +99,6 @@ You do not need to be on a specific page to use it. Search works from anywhere i
 
 ## Lab 1.3.1 — Navigate Every Major Section
 
-**Time:** 15 minutes
 **Tools:** Entra admin center (`entra.microsoft.com`)
 **Prerequisite:** Module 1.1 completed. Signed in as your sandbox admin account.
 
@@ -135,7 +134,6 @@ Navigate to each section listed below using the left nav. For each one, note one
 
 ## Lab 1.3.2 — Use Search to Navigate
 
-**Time:** 10 minutes
 **Tools:** Entra admin center (`entra.microsoft.com`)
 **Prerequisite:** Lab 1.3.1 completed.
 
@@ -157,7 +155,6 @@ Navigate to each section listed below using the left nav. For each one, note one
 
 ## Lab 1.3.3 — Pin Favorites and Set Up Bookmarks
 
-**Time:** 10 minutes
 **Tools:** Entra admin center (`entra.microsoft.com`), web browser
 **Prerequisite:** Lab 1.3.2 completed.
 

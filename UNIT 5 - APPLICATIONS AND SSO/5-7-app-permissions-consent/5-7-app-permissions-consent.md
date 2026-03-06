@@ -1,7 +1,7 @@
 # App Permissions and Admin Consent
 *Apps don't get permissions automatically. You decide what each app can do and what data it can access.*
 
-> 🟡 **Intermediate** · Unit 5, Module 5.7 · ⏱️ 50 minutes
+> 🟡 **Intermediate** · Unit 5, Module 5.7
 
 ---
 
@@ -83,7 +83,6 @@ An app with too much permission is a security risk. If a compromised app has `Us
 
 ## Lab 5.7.1 — Audit App Permissions in Your Tenant
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Module 5.1 complete; you have apps configured (Slack, etc.)
 
@@ -112,7 +111,6 @@ An app with too much permission is a security risk. If a compromised app has `Us
 
 ## Lab 5.7.2 — Review Permissions on a Specific App
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 5.7.1 complete
 
@@ -140,7 +138,6 @@ An app with too much permission is a security risk. If a compromised app has `Us
 
 ## Lab 5.7.3 — Understand Permission Risk with PowerShell
 
-**Time:** 15 minutes
 **Tools:** PowerShell, Microsoft Graph PowerShell SDK
 **Prerequisite:** Module 2.1 complete (PowerShell installed and connected)
 
@@ -178,7 +175,6 @@ You'll list all apps in your tenant and identify which ones have high-risk permi
 
 ## Lab 5.7.4 — Revoke Permissions from an App
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 5.7.3 complete; you've identified an over-permissioned app
 

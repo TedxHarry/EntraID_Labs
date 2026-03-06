@@ -1,7 +1,7 @@
 # Reading Sign-In Logs Like a Professional
 *Every sign-in is recorded. Knowing what to look for in the logs is the difference between investigation and guessing.*
 
-> 🟡 **Intermediate** · Unit 6, Module 6.2 · ⏱️ 50 minutes
+> 🟡 **Intermediate** · Unit 6, Module 6.2
 
 ---
 
@@ -91,7 +91,6 @@ Every sign-in log entry has these key fields:
 
 ## Lab 6.2.1 — Open and Filter Sign-In Logs
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Module 1.1 complete; some sign-ins exist in your tenant
 
@@ -132,7 +131,6 @@ Every sign-in log entry has these key fields:
 
 ## Lab 6.2.2 — Investigate a Suspicious Sign-In Pattern
 
-**Time:** 20 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 6.2.1 complete
 
@@ -170,7 +168,6 @@ You'll use the logs to investigate a suspicious scenario.
 
 ## Lab 6.2.3 — Use Advanced Filtering to Find Compromised Accounts
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 6.2.2 complete
 
@@ -203,7 +200,6 @@ Identity Protection flags risky signs-in. You can filter logs to see them.
 
 ## Lab 6.2.4 — Create a Sign-In Query for Ongoing Monitoring
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 6.2.3 complete
 

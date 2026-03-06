@@ -1,7 +1,7 @@
 # Guest Users and B2B Collaboration
 *An external user in your tenant is not the same as an internal user. The difference matters for access, licensing, and lifecycle.*
 
-> 🟢 **Beginner** · Unit 2, Module 2.7 · ⏱️ 60 minutes
+> 🟢 **Beginner** · Unit 2, Module 2.7
 
 ---
 
@@ -71,7 +71,6 @@ This module uses the admin invite via portal — the method you will use most of
 
 ## Lab 2.7.1 — Delete the Member Account and Invite Sam Taylor as a Guest
 
-**Time:** 20 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Sam Taylor exists as a member account from Module 2.1. You need access to a second email address to receive the guest invitation (use a personal Microsoft account or a Gmail account — this represents Sam's external identity).
 
@@ -137,7 +136,6 @@ This module uses the admin invite via portal — the method you will use most of
 
 ## Lab 2.7.2 — Compare Sam's Guest Account to Alex Lee's Member Account
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 2.7.1 complete
 
@@ -165,7 +163,6 @@ For each property below, compare what you see in Sam's profile vs Alex's profile
 
 ## Lab 2.7.3 — Assign Sam Access to a Specific Resource
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Engineering-Team SharePoint site exists from Module 2.3
 
@@ -193,7 +190,6 @@ For each property below, compare what you see in Sam's profile vs Alex's profile
 
 ## Lab 2.7.4 — Remove Sam's Access and Manage Guest Lifecycle
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 2.7.1 complete
 

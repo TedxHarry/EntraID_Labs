@@ -1,7 +1,7 @@
 # Access Reviews — Who Really Needs Access?
 *Every quarter, ask: does this person still need this access? Remove it if they don't. This is compliance and security.*
 
-> 🟡 **Intermediate** · Unit 6, Module 6.4 · ⏱️ 50 minutes
+> 🟡 **Intermediate** · Unit 6, Module 6.4
 
 ---
 
@@ -61,7 +61,6 @@ Access reviews can audit:
 
 ## Lab 6.4.1 — Create an Access Review
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Module 5.6 complete (users assigned to apps)
 
@@ -100,7 +99,6 @@ The review is now active. River Patel will receive a notification to review Fina
 
 ## Lab 6.4.2 — Complete an Access Review (As Reviewer)
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 6.4.1 complete; at least one user in the review scope
 
@@ -134,7 +132,6 @@ The review is submitted. If auto-apply is enabled, Entra ID will now remove deni
 
 ## Lab 6.4.3 — Review and Apply Access Review Results
 
-**Time:** 15 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 6.4.2 complete; review has been submitted
 
@@ -168,7 +165,6 @@ The review is submitted. If auto-apply is enabled, Entra ID will now remove deni
 
 ## Lab 6.4.4 — Schedule Recurring Access Reviews
 
-**Time:** 10 minutes
 **Tools:** Entra admin center
 **Prerequisite:** Lab 6.4.3 complete
 
